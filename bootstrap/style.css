@@ -1,0 +1,62 @@
+.card{
+    margin: 50px;
+   
+  
+}
+body{
+    background-color: #ffffff;
+}
+.containercard{
+    display: flex;
+}
+
+
+
+.navbar-brand{
+   margin: 4px;
+}
+.nav-link:hover{
+    color: #025ba9;
+}
+.nav-link{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.navbar-nav{
+    padding: 20px ;
+    align-items: center;
+    justify-content: space-between;
+   
+    
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+}
+.heading{
+  
+    text-align: center;
+    font-size: 24px;
+    line-height: 28.8px;
+    color: #00344d;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.herocertified{
+    background-color: #00344d;
+    text-align: center;
+    color: #ffffff;
+ 
+    padding: 50px;
+}
+.corporate{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.para{
+    font-family: sans-serif;
+    font-weight: lighter;
+   
+}
