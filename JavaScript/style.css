@@ -1,0 +1,40 @@
+body{
+    font-family: serif;
+    background-color:#BFDBFE ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+}
+.container{
+    background-color: white;
+    border-radius: 10px;
+    padding: 40px;
+    width: 300px;
+    padding-right: 8px;
+
+}
+h1{
+    text-align: start;
+    color: blue;
+}
+input{
+    width: 80%;
+    padding: 10px; 
+    border: 1px solid ;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    padding-right: 10px;
+
+}
+.btn{
+    width: 80%;
+    padding: 10px;
+    background-color: #2563EB;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+}
