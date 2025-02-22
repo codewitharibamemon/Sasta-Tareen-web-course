@@ -1,0 +1,27 @@
+body{
+    background-color: #01204C;
+}
+/* ul > li{
+    color: #F2FCF7;
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 16px;
+   
+} */
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+nav{
+    display: flex;
+    gap: 20px
+}
+nav a {
+    color: #F2FCF7;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "Roboto", serif;
+    padding: 5px 10px;
+}

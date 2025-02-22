@@ -1,0 +1,58 @@
+.sameer{
+   background-color: grey;
+}
+
+.asim{
+    background-color: white;
+    color: navy;
+
+}
+
+.minhal{
+    color: grey;
+    background-color: navy;
+}
+
+.ayesha{
+    background-color: purple;
+    color: white;
+}
+
+.maryam{
+    color: skyblue;
+    background-color: white;
+}
+
+
+body{
+    background-color: #dd9696;
+}
+button{
+    background-color: blue;
+    color: white;
+    margin: 10px;
+}
+
+/* MEDIA QUERY START KRRHY HAIN */
+/* @media */
+
+/* ONLY SCREEN */
+/* SCREEN PE APPLY HOGA */
+/* screen size  */
+
+/* extra small */
+/*  */
+@media only screen and (max-width: 600px){
+ .sameer{
+    background-color: green;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 2px;
+ }
+ .asim{
+    background-color: #000080;
+    color: yellow;
+    text-align: center;
+ }
+}

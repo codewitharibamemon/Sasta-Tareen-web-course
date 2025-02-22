@@ -1,0 +1,60 @@
+/* /* p{
+    color: aqua;
+    background-color: blue;
+}
+
+*{
+    background-color: blueviolet;
+} */
+
+
+/* a:hover{
+    color: #FF0000;
+} */
+
+/* a:active{
+    color: blue;
+} */
+
+/* a:visited{
+    color: aqua;
+} */
+
+/* button:active{
+    background-color: red;
+    color: white;
+}
+
+a:visited{
+    color: purple;
+}
+a{
+    color: red;
+}  */
+
+
+
+
+a{
+    color: blue;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:hover{
+    color: red;
+}
+a:active{
+    color: green;
+}
+
+a:link{
+    color: brown;
+}
+
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(107,53,151,1) 35%, rgba(0,212,255,1) 100%);
+}
